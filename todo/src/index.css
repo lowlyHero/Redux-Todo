@@ -1,0 +1,11 @@
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+
+.App {
+  padding: 10px;
+  text-align: center;
+}
