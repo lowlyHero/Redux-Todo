@@ -4,10 +4,7 @@ import Addtodo from './components/Addtodo';
 
 class App extends Component {
     state = {
-        todos: [
-            {id: 1, content: 'Grocery Shopping'},
-            {id: 2, content: 'Play Mario Kart'}
-        ]
+        todos: []
     }
 
     deleteTodo = (id) => {
